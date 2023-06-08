@@ -1,4 +1,4 @@
-#### This is GrayDot Technologies FrontEnd Internship Assignment
+### This is GrayDot Technologies FrontEnd Internship Assignment
 
 #### Instructions to run the assignment
 1) clone the repo or download the zip
